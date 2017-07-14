@@ -32,7 +32,7 @@ CreateMySQLUser()
     echo "========================================================================"
     echo "You can now connect to this MySQL Server using:"
     echo ""
-    echo "    mysql -u$MYSQL_USER  -h<host> -P<port>"
+    echo "    mysql username developer and that password!!"
     echo ""
     echo "MySQL user 'root' has no password but only allows local connections"
     echo "========================================================================"
